@@ -40,3 +40,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## Installed
 0. `npx create-next-app@latest`
 0. `npm i framer-motion clsx tailwind-merge`
+0. `npm i tailwindcss-animate`
+0. `npm i mini-svg-data-uri`
+0. `npm i @tsparticles/react @tsparticles/engine @tsparticles/slim`
+0. `npm i react-icons`
+
+## Documentation followed:
+* https://ui.aceternity.com/components/spotlight
+* https://ui.aceternity.com/components/sparkles
+* https://ui.aceternity.com/components/typewriter-effect
